@@ -25,7 +25,6 @@ torchvision == 0.8.0
 en_core_web_sm == 2.2.5  
 future == 0.18.2  
 
-#### PS：The data cannot be made public due to non-disclosure agreements.
 
 Decision Tree:
 ![image](https://github.com/czycurefun/RequirementDependency/blob/master/IMG/DT49.png)
