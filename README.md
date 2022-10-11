@@ -1,10 +1,10 @@
 predict.py is used for requirements dependency identification.  
-TestcaseExtraction is used for extracting entities.
+RequirementExtraction is used for extracting entities.
 
 # Usage
 
 python app.py  
-python extractentity.py
+python predict.py
 
 # Packages
 
